@@ -1,5 +1,5 @@
 body{
-  background-image: url('pics\final_pic.png');
+  background-image: url('pics/final_pic.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -16,7 +16,7 @@ div{
 
 @media (max-width: 1080px){
   body{
-    background-image: url('pics\final_pic_mobile.png');
+    background-image: url('pics/final_pic_mobile.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
