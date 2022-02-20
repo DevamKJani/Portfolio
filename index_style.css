@@ -23,9 +23,9 @@ div{
   }
 
   div{
-    height: 300px;
-    width: 55%;
-    /* border: 10px #398AB9 dashed; */
+    height: 410px;
+    width: 60%;
+    border: 5px white double;
     position: fixed;
     left: 90px;
     top: 590px;
@@ -34,8 +34,7 @@ div{
   p{
       bottom: 10px;
   }
-
-
+  
 }
 
 p{
