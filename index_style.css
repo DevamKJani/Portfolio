@@ -64,7 +64,7 @@ font-family: 'Raleway', sans-serif;
   font-size: 25px;
   position: relative;
   left: 10px;
-  top: 5px;
+/*   top: 5px; */
   animation: mymove 2.5s /* fade-in animation */
 }
 
